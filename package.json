@@ -12,7 +12,7 @@
     "axios": "^0.21.2",
     "core-js": "^2.6.5",
     "firebase": "^6.6.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "services": "0.0.3",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
